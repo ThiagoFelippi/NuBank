@@ -1,5 +1,5 @@
-# :NuBank:
-:![Logo da nubank](https://github.com/ThiagoFelippi/NuBank/blob/master/Logo_nubank.png):
+# NuBank
+![Logo da nubank](https://github.com/ThiagoFelippi/NuBank/blob/master/Logo_nubank.png)
 
 ## Projeto
 Esse é um clone a interface do NuBank utilizando React Native, realizei esse projeto para praticar e aprender sobre animações no React Native
