@@ -1,1 +1,3 @@
-<center> NuBank  </center>
+<p align="justify">
+  Lorem ipsum
+</p>
