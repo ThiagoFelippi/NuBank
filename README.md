@@ -1,5 +1,5 @@
 <h1 align="center">NuBank</h1>
-<img src="https://github.com/ThiagoFelippi/NuBank/blob/master/Logo_nubank.png" align="center">
+<img src="https://github.com/ThiagoFelippi/NuBank/blob/master/Logo_nubank.png" align="center" >
 ![Logo da nubank]()
 
 ## Projeto
