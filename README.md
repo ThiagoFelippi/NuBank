@@ -1,6 +1,6 @@
 <h1  align="center"> <img src="https://github.com/ThiagoFelippi/NuBank/blob/master/Logo_nubank.png" style="max-width:100%;" alt="logo da nubank"> </h1>
 
-## Projeto
+### Projeto
 Esse é um clone a interface do NuBank utilizando React Native, realizei esse projeto para praticar e aprender sobre animações no React Native
 
 ### Como utilizar
