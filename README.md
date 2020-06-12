@@ -1,1 +1,1 @@
-<center> #NuBank  </center>
+<center> NuBank  </center>
