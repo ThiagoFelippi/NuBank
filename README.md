@@ -1,4 +1,4 @@
-:# NuBank:
+# :NuBank:
 :![Logo da nubank](https://github.com/ThiagoFelippi/NuBank/blob/master/Logo_nubank.png):
 
 ## Projeto
