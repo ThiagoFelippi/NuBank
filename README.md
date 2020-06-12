@@ -1,4 +1,4 @@
-# NuBank
+<h1 align="center">NuBank</h1>
 ![Logo da nubank](https://github.com/ThiagoFelippi/NuBank/blob/master/Logo_nubank.png)
 
 ## Projeto
